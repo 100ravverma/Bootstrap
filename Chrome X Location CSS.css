@@ -1,0 +1,11 @@
+@keyframes mymove{
+    form(right:400px;)
+    to(right:22px;)
+}
+.bg-text{
+    position:relative;
+    animation: mymove 1s infinite;
+    font-size:20px ;
+    font-family:Noto Sans Simplified Chinese ;
+
+}
